@@ -1,0 +1,16 @@
+http,   200,  SIAKAD,                 https://siakad.unej.ac.id
+http,   200,  SIMKEU,                 https://simkeu.unej.ac.id
+http,   200,  SIMPEG,                 https://siakad.unej.ac.id/kepegawaian/simpeg
+http,   200,  SIJAMU,                 https://sijamu.unej.ac.id
+http,   200,  SIBAJA,                 https://sibaja.unej.ac.id
+http,   200,  SIKD,                   https://sikd.unej.ac.id
+http,   200,  SIMANGGA,               https://simangga.unej.ac.id/
+http,   200,  E-Surat,                https://siakad.unej.ac.id/surat/listsurat
+http,   200,  E-Dokumen,              https://edokumen.unej.ac.id
+http,   200,  UC3,                    https://uc3.unej.ac.id
+http,   200,  Web [unej.ac.id],       https://unej.ac.id
+ping,   0,    DNS 205,                103.241.205.205
+ping,   0,    DNS 206,                103.241.206.206
+ping,   0,    API SISTER,             103.241.205.115
+ping,   0,    MMP,                    10.10.3.103
+http,   200,  MBKM,                   https://mbkm.unej.ac.id
