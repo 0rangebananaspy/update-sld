@@ -11,6 +11,13 @@ http,   200,  UC3,                    https://uc3.unej.ac.id
 http,   200,  Web [unej.ac.id],       https://unej.ac.id
 ping,   0,    DNS 205,                103.241.205.205
 ping,   0,    DNS 206,                103.241.206.206
-ping,   0,    API SISTER,             103.241.205.115
+ping,   0,    SISTER-API,             103.241.205.115
 ping,   0,    MMP,                    10.10.3.103
 http,   200,  MBKM,                   https://mbkm.unej.ac.id
+ping,   0,    SISTER-DB,              10.10.3.92
+ping,   0,    LDAP,                   10.10.3.92
+ping,   0,    NTX Era DBaaS,          10.10.3.33
+ping,   0,    NTX Prism Central,      10.10.7.50
+ping,   0,    NTX Prism Element,      10.10.7.44
+ping,   0,    MinIO S3,               10.10.3.62
+ping,   0,    Ceph Storage,           10.10.7.30
