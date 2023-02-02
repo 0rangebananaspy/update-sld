@@ -17,4 +17,3 @@ http,   200,  MBKM,                   https://mbkm.unej.ac.id
 ping,   0,    SISTER-DB,              10.10.3.92
 ping,   0,    SSO,                    10.10.3.92
 ping,   0,    VPN,                    10.10.22.1
-http,   0,    Zoom-SVR,               https://unej-id.zoom.us
