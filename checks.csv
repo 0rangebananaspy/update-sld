@@ -15,9 +15,6 @@ ping,   0,    SISTER-API,             103.241.205.115
 ping,   0,    MMP,                    10.10.3.103
 http,   200,  MBKM,                   https://mbkm.unej.ac.id
 ping,   0,    SISTER-DB,              10.10.3.92
-ping,   0,    LDAP,                   10.10.3.92
-ping,   0,    NTX DBaaS,              10.10.3.33
-ping,   0,    NTX Central,            10.10.7.50
-ping,   0,    NTX Element,            10.10.7.44
-ping,   0,    MINIO S3,               10.10.3.62
-ping,   0,    CEPH,                   10.10.7.30
+ping,   0,    SSO,                    10.10.3.92
+ping,   0,    VPN,                    10.10.22.1
+http,   0,    Zoom-SVR,               https://unej-id.zoom.us
