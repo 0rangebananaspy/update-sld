@@ -1,2 +1,8 @@
 # update-sld
 Update insiden untuk monitoring Status Layanan Digital (SLD)
+
+# How To Update Incident
+1. Edit file incidents.txt
+2. Add new line at the very top with appropriate description. You can add estimate time needed to solve the new incidents. Optional but very important to add your nickname.
+3. Commit the changes.
+4. Ansible agent will recognize your changes and immediately pull the repo then deploy source code to Firebase. 
