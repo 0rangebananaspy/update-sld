@@ -8,7 +8,7 @@ Update insiden untuk monitoring Status Layanan Digital (SLD)
 4. Ansible agent will recognize your changes and immediately pull the repo then deploy source code to Firebase.
 
 # How to Update Host or Domain to monitor
-1. Edit file hosts.csv
+1. Edit file checks.csv
 2. Add your host or domain.
 3. Use http protocol for domain record. Use ping protocol for server or private domain.
 4. Commit the changes.
