@@ -14,7 +14,7 @@ ping,   0,    DNS 206,                103.241.206.206
 ping,   0,    SISTER-API,             103.241.205.115
 ping,   0,    MMP,                    10.10.3.103
 http,   200,  MBKM,                   https://mbkm.unej.ac.id
-ping,   0,    SISTER-DB,              10.10.3.209
+ping,   0,    SISTER-DB,              10.10.3.2091
 ping,   0,    SSO,                    10.10.3.92
 ping,   0,    VPN,                    10.10.22.1
 http,   200,  SIREMUN,                https://siremun.unej.ac.id
