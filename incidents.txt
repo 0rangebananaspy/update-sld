@@ -1,3 +1,4 @@
+2023/03/06 10:05 WIB - Single Sign-On (SSO) service maintenance break. Affected services will not working properly. Please be patient, our engineering team is working on fixing the issue. Est 1 day. --orangebananaspy
 2023/03/01 08:40 WIB - SISTER Maintenance Break. We are currently experiencing an outage and we have identified the root cause of the problem. Our engineering team is working on fixing the same. We will keep you all posted on the status until we resolve the issue. Est 1 hour. --orangebananaspy
 2023/02/20 11:49 WIB - Add SIREMUN to SLD --orangebananaspy
 2023/02/14 15:37 WIB - Restoring unej.ac.id to the fix state --orangebanbanaspy
