@@ -1,5 +1,5 @@
-# update-sld
-Update insiden untuk monitoring Status Layanan Digital (SLD)
+# About
+Incident updates for Digital Service Status Monitoring (Monitoring Status Layanan Digital (mSLD)) tool.
 
 # How To Update Incident
 1. Edit file incidents.txt
